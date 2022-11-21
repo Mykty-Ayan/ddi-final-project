@@ -1,0 +1,12 @@
+GET https://krisha.kz/a/show/675761826/analytics/aPriceAnalysis/
+
+###
+GET https://app.krisha.kz/?appToken={{appToken}}
+
+
+###
+GET https://krisha.kz/a/ajaxPhones?id=675761826
+#Authorization: Bearer {{appToken}}
+Referer: https://krisha.kz/a/show/675761826
+Cookie: 
+
